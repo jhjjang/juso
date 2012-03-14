@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>서울특별시</key>
+	<array>
+		<string>강남구</string>
+		<string>강동구</string>
+		<string>강북구</string>
+		<string>강서구</string>
+		<string>관악구</string>
+		<string>광진구</string>
+		<string>구로구</string>
+		<string>금천구</string>
+		<string>노원구</string>
+		<string>도봉구</string>
+		<string>동대문구</string>
+		<string>동작구</string>
+		<string>마포구</string>
+		<string>서대문구</string>
+		<string>서초구</string>
+		<string>성동구</string>
+		<string>성북구</string>
+		<string>송파구</string>
+		<string>양천구</string>
+		<string>영등포구</string>
+		<string>용산구</string>
+		<string>은평구</string>
+		<string>종로구</string>
+		<string>중구</string>
+		<string>중량구</string>
+	</array>
+	<key>부산광역시</key>
+	<array>
+		<string>강서구</string>
+		<string>금정구</string>
+		<string>기장군</string>
+		<string>남구</string>
+		<string>동구</string>
+		<string>동래구</string>
+		<string>부산진구</string>
+		<string>북구</string>
+		<string>사상구</string>
+		<string>사하구</string>
+		<string>서구</string>
+		<string>수영구</string>
+		<string>연제구</string>
+		<string>영도구</string>
+		<string>중구</string>
+		<string>해운대구</string>
+	</array>
+	<key>대구광역시</key>
+	<array>
+		<string>남구</string>
+		<string>달서구</string>
+		<string>달성군</string>
+		<string>동구</string>
+		<string>북구</string>
+		<string>성구</string>
+		<string>수성구</string>
+		<string>중구</string>
+	</array>
+	<key>인천광역시</key>
+	<array>
+		<string>강화군</string>
+		<string>계양구</string>
+		<string>남구</string>
+		<string>남동구</string>
+		<string>동구</string>
+		<string>부평구</string>
+		<string>서구</string>
+		<string>연수군</string>
+		<string>웅진군</string>
+		<string>중구</string>
+	</array>
+	<key>광주광역시</key>
+	<array>
+		<string>광산구</string>
+		<string>남구</string>
+		<string>동구</string>
+		<string>북구</string>
+		<string>서구</string>
+	</array>
+	<key>대전광역시</key>
+	<array>
+		<string>대덕구</string>
+		<string>동구</string>
+		<string>서구</string>
+		<string>유성구</string>
+		<string>중구</string>
+	</array>
+	<key>울산광역시</key>
+	<array>
+		<string>남구</string>
+		<string>동구</string>
+		<string>북구</string>
+		<string>울주군</string>
+		<string>중구</string>
+	</array>
+	<key>경기도</key>
+	<array>
+		<string>가평군</string>
+		<string>고양시 덕양구</string>
+		<string>고양시 일산동구</string>
+		<string>고양시 일산서구</string>
+		<string>과천시</string>
+		<string>광명시</string>
+		<string>광주시</string>
+		<string>구리시</string>
+		<string>군포시</string>
+		<string>김포시</string>
+		<string>남양주시</string>
+		<string>동두천시</string>
+		<string>부천시 소사구</string>
+		<string>부천시 오정구</string>
+		<string>부천시 원미구</string>
+		<string>상남시 분당구</string>
+		<string>성남시 수정구</string>
+		<string>성남시 중원구</string>
+		<string>수원시 권선구</string>
+		<string>수원시 원통구</string>
+		<string>수원시 장안구</string>
+		<string>수원시 팔달구</string>
+		<string>시흥시</string>
+		<string>안산시 단원구</string>
+		<string>안산시 상록구</string>
+		<string>안성시</string>
+		<string>안양시 동안구</string>
+		<string>안양시 만안구</string>
+		<string>양주시</string>
+		<string>양평군</string>
+		<string>여주군</string>
+		<string>연천군</string>
+		<string>오산시</string>
+		<string>용인시 기흥구</string>
+		<string>용인시 수지구</string>
+		<string>용인시 처인구</string>
+		<string>의왕시</string>
+		<string>의정부시</string>
+		<string>이천시</string>
+		<string>파주시</string>
+		<string>평택시</string>
+		<string>포천시</string>
+		<string>하남시</string>
+		<string>화성시</string>
+	</array>
+	<key>충청북도</key>
+	<array>
+		<string>괴산군</string>
+		<string>단양군</string>
+		<string>보은군</string>
+		<string>영동군</string>
+		<string>옥천군</string>
+		<string>음성군</string>
+		<string>제천시</string>
+		<string>증평군</string>
+		<string>진천군</string>
+		<string>청원군</string>
+		<string>청주시 상당구</string>
+		<string>청주시 홍덕구</string>
+		<string>충주시</string>
+	</array>
+	<key>충청남도</key>
+	<array>
+		<string>계룡시</string>
+		<string>공주시</string>
+		<string>금산군</string>
+		<string>논산시</string>
+		<string>당진군</string>
+		<string>보령시</string>
+		<string>부여군</string>
+		<string>서산시</string>
+		<string>서천군</string>
+		<string>아산시</string>
+		<string>연기군</string>
+		<string>예산군</string>
+		<string>천안시 동남구</string>
+		<string>천안시 서북구</string>
+		<string>청양군</string>
+		<string>태안군</string>
+		<string>홍성군</string>
+	</array>
+	<key>전라북도</key>
+	<array>
+		<string>고창군</string>
+		<string>군산시</string>
+		<string>김제시</string>
+		<string>남원시</string>
+		<string>무주군</string>
+		<string>무안군</string>
+		<string>순창군</string>
+		<string>완주군</string>
+		<string>익산시</string>
+		<string>임실군</string>
+		<string>장수군</string>
+		<string>전주시 덕진구</string>
+		<string>전주시 완산구</string>
+		<string>정읍시</string>
+		<string>진안군</string>
+	</array>
+	<key>전라남도</key>
+	<array>
+		<string>강진군</string>
+		<string>고흥군</string>
+		<string>곡성군</string>
+		<string>광양시</string>
+		<string>구례군</string>
+		<string>나주시</string>
+		<string>담양군</string>
+		<string>목포시</string>
+		<string>무안군</string>
+		<string>보성군</string>
+		<string>순천시</string>
+		<string>신안군</string>
+		<string>여수시</string>
+		<string>영광군</string>
+		<string>영암군</string>
+		<string>완도군</string>
+		<string>장성군</string>
+		<string>장흥군</string>
+		<string>진도군</string>
+		<string>함평군</string>
+		<string>해남군</string>
+		<string>화순군</string>
+	</array>
+	<key>경상북도</key>
+	<array>
+		<string>경산시</string>
+		<string>경주시</string>
+		<string>고령군</string>
+		<string>구미시</string>
+		<string>군위군</string>
+		<string>김천시</string>
+		<string>문경시</string>
+		<string>봉화군</string>
+		<string>상주시</string>
+		<string>성주군</string>
+		<string>안동시</string>
+		<string>영덕군</string>
+		<string>영양군</string>
+		<string>영주시</string>
+		<string>영천시</string>
+		<string>여천군</string>
+		<string>울릉군</string>
+		<string>울진군</string>
+		<string>의성군</string>
+		<string>청도군</string>
+		<string>청송군</string>
+		<string>칠곡군</string>
+		<string>포항시 남구</string>
+		<string>포항시 북구</string>
+	</array>
+	<key>경상남도</key>
+	<array>
+		<string>거제시</string>
+		<string>거창군</string>
+		<string>고성군</string>
+		<string>김해시</string>
+		<string>남해군</string>
+		<string>밀양시</string>
+		<string>사천시</string>
+		<string>산청군</string>
+		<string>양산시</string>
+		<string>의령군</string>
+		<string>진주시</string>
+		<string>창녕군</string>
+		<string>창원시 성산구</string>
+		<string>창원시 의창구</string>
+		<string>창원시 진해구</string>
+		<string>창원시마산합포구</string>
+		<string>창원시마산회원구</string>
+		<string>통영시</string>
+		<string>하동군</string>
+		<string>함안군</string>
+		<string>함양군</string>
+		<string>합천군</string>
+	</array>
+	<key>제주특별자치도</key>
+	<array>
+		<string>서귀포시</string>
+		<string>제주시</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1918 @@
+Tjuso
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Info.plist juso/juso-Info.plist
+cProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/main.o /Users/jhjjang/iPhone/incn/juso/juso/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/AppDelegate.o /Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/FirstViewController.o /Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SecondViewController.o /Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/HTTPRequest.o /Users/jhjjang/iPhone/incn/juso/HTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/NSDataAdditions.o /Users/jhjjang/iPhone/incn/juso/NSDataAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SetColor.o /Users/jhjjang/iPhone/incn/juso/juso/SetColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/TBXML.o /Users/jhjjang/iPhone/incn/juso/TBXML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/addressItem.o /Users/jhjjang/iPhone/incn/juso/juso/addressItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/ResultViewController.o /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/Annotation.o /Users/jhjjang/iPhone/incn/juso/juso/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/MultiResultViewController.o /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CustomCell.o /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CompanyInfoViewController.o /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso normal i386
+cGenerateDSYMFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app.dSYM /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso
+cCopyStringsFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/InfoPlist.strings juso/en.lproj/InfoPlist.strings
+cCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/FirstViewController.xib
+cCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/SecondViewController.xib
+cCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.xib
+cCpResource Resources/cauly_default_banner_ipad_large.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_large.png
+cCpResource Resources/cauly_default_banner_ipad_small.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_small.png
+cCpResource Resources/cauly_default_banner_iphone.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_iphone.png
+cCopyPlistFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/address.plist juso/address.plist
+cCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.xib
+cCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.xib
+cCpResource radio-off.png build/Debug-iphonesimulator/juso.app/radio-off.png
+cCpResource radio-on.png build/Debug-iphonesimulator/juso.app/radio-on.png
+cCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.xib
+cCpResource 01_bg.png build/Debug-iphonesimulator/juso.app/01_bg.png
+cCpResource 01_btn_search.png build/Debug-iphonesimulator/juso.app/01_btn_search.png
+cCpResource 01_btn_search2.png build/Debug-iphonesimulator/juso.app/01_btn_search2.png
+cCpResource 01_btn_sel.png build/Debug-iphonesimulator/juso.app/01_btn_sel.png
+cCpResource 01_btn01.png build/Debug-iphonesimulator/juso.app/01_btn01.png
+cCpResource 01_btn01o.png build/Debug-iphonesimulator/juso.app/01_btn01o.png
+cCpResource 01_btn02.png build/Debug-iphonesimulator/juso.app/01_btn02.png
+cCpResource 01_btn02o.png build/Debug-iphonesimulator/juso.app/01_btn02o.png
+cCpResource 02_btn_fav.png build/Debug-iphonesimulator/juso.app/02_btn_fav.png
+cCpResource 02_rbox.png build/Debug-iphonesimulator/juso.app/02_rbox.png
+cCpResource 03_btn_fav.png build/Debug-iphonesimulator/juso.app/03_btn_fav.png
+cCpResource 03_rbox.png build/Debug-iphonesimulator/juso.app/03_rbox.png
+cCpResource 04_img01.png build/Debug-iphonesimulator/juso.app/04_img01.png
+cCpResource mapbg.png build/Debug-iphonesimulator/juso.app/mapbg.png
+cCpResource navi01.png build/Debug-iphonesimulator/juso.app/navi01.png
+cCpResource navi02.png build/Debug-iphonesimulator/juso.app/navi02.png
+cCpResource Default.png build/Debug-iphonesimulator/juso.app/Default.png
+cCpResource Default@2x.png build/Debug-iphonesimulator/juso.app/Default@2x.png
+cCpResource icon@2x.png build/Debug-iphonesimulator/juso.app/icon@2x.png
+cCpResource icon_57.png build/Debug-iphonesimulator/juso.app/icon_57.png
+cCopyPlistFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/dong.plist juso/dong.plist
+cCpResource info.png build/Debug-iphonesimulator/juso.app/info.png
+cCpResource info@2x.png build/Debug-iphonesimulator/juso.app/info@2x.png
+cCpResource bg01.png build/Debug-iphonesimulator/juso.app/bg01.png
+cCpResource bg01@2x.png build/Debug-iphonesimulator/juso.app/bg01@2x.png
+cCpResource navi03.png build/Debug-iphonesimulator/juso.app/navi03.png
+cTouch /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F0371B80000000000000132
+t1325625784
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004F067C7E00000000002051E0
+t1325825150
+s2118112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F067C820000000000244470
+t1325825154
+s2376816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004F067C830000000000089510
+t1325825155
+s562448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F067C940000000000353830
+t1325825172
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004F067CA600000000000D9D50
+t1325825190
+s892240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004F067CAC00000000000CA770
+t1325825196
+s829296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F067CAD00000000001AB190
+t1325825197
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004F067CB2000000000006C8A0
+t1325825202
+s444576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F067CBB0000000000905BE0
+t1325825211
+s9460704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib/libz.dylib
+c000000004F067D790000000000013460
+t1325825401
+s78944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F30CC7E0000000000000110
+t1328598142
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004E72F23F00000000002050D0
+t1316155967
+s2117840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E78059F00000000000859A0
+t1316488607
+s547232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004E7807EF00000000000D89E0
+t1316489199
+s887264
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004E78081300000000000CA7C0
+t1316489235
+s829376
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004E72F177000000000006C8A0
+t1316155767
+s444576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libz.dylib
+c000000004E72EDC60000000000013460
+t1316154822
+s78944
+
+N/Users/jhjjang/iPhone/incn/juso/01_bg.png
+c000000004F2F5D6A000000000000232A
+t1328504170
+s9002
+
+N/Users/jhjjang/iPhone/incn/juso/01_bg@2x.png
+c000000004F2F60620000000000004D5E
+t1328504930
+s19806
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn01.png
+c000000004F2F5F5C0000000000002326
+t1328504668
+s8998
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn01@2x.png
+c000000004F2F60D00000000000002093
+t1328505040
+s8339
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn01o.png
+c000000004F2F5D860000000000001EAE
+t1328504198
+s7854
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn01o@2x.png
+c000000004F2F6102000000000000204F
+t1328505090
+s8271
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn02.png
+c000000004F2F5F3600000000000020C0
+t1328504630
+s8384
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn02@2x.png
+c000000004F2F60C60000000000002042
+t1328505030
+s8258
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn02o.png
+c000000004F2F5F3E0000000000001E04
+t1328504638
+s7684
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn02o@2x.png
+c000000004F2F60B60000000000002026
+t1328505014
+s8230
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn_search.png
+c000000004F2F5D600000000000002BAC
+t1328504160
+s11180
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn_search2.png
+c000000004F2F5D5A000000000000253D
+t1328504154
+s9533
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn_search2@2x.png
+c000000004F2F60760000000000004049
+t1328504950
+s16457
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn_search@2x.png
+c000000004F2F607C0000000000005072
+t1328504956
+s20594
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn_sel.png
+c000000004F2F5D4E00000000000011C7
+t1328504142
+s4551
+
+N/Users/jhjjang/iPhone/incn/juso/01_btn_sel@2x.png
+c000000004F2F609000000000000013C9
+t1328504976
+s5065
+
+N/Users/jhjjang/iPhone/incn/juso/02_btn_fav.png
+c000000004F2F602800000000000017EB
+t1328504872
+s6123
+
+N/Users/jhjjang/iPhone/incn/juso/02_btn_fav@2x.png
+c000000004F2F43B00000000000001E38
+t1328497584
+s7736
+
+N/Users/jhjjang/iPhone/incn/juso/02_rbox.png
+c000000004F2F60240000000000000CE8
+t1328504868
+s3304
+
+N/Users/jhjjang/iPhone/incn/juso/02_rbox@2x.png
+c000000004F2F43FE0000000000000EB6
+t1328497662
+s3766
+
+N/Users/jhjjang/iPhone/incn/juso/03_btn_fav.png
+c000000004F2F601E000000000000167F
+t1328504862
+s5759
+
+N/Users/jhjjang/iPhone/incn/juso/03_btn_fav@2x.png
+c000000004F2F44980000000000001C95
+t1328497816
+s7317
+
+N/Users/jhjjang/iPhone/incn/juso/03_rbox.png
+c000000004F2F601A0000000000000D4E
+t1328504858
+s3406
+
+N/Users/jhjjang/iPhone/incn/juso/03_rbox@2x.png
+c000000004F2F44860000000000000FE5
+t1328497798
+s4069
+
+N/Users/jhjjang/iPhone/incn/juso/04_img01.png
+c000000004F2F618C0000000000009F02
+t1328505228
+s40706
+
+N/Users/jhjjang/iPhone/incn/juso/04_img01@2x.png
+c000000004F2F617E0000000000013785
+t1328505214
+s79749
+
+N/Users/jhjjang/iPhone/incn/juso/CaulyProtocol.h
+c000000004EB76B9F0000000000000B29
+t1320643487
+s2857
+
+N/Users/jhjjang/iPhone/incn/juso/CaulyViewController.h
+c000000004E7FDCF10000000000000EA0
+t1317002481
+s3744
+
+N/Users/jhjjang/iPhone/incn/juso/Default.png
+c000000004F2F6016000000000002F95E
+t1328504854
+s194910
+
+N/Users/jhjjang/iPhone/incn/juso/Default@2x.png
+c000000004F2F5C720000000000085127
+t1328503922
+s545063
+
+N/Users/jhjjang/iPhone/incn/juso/HTTPRequest.h
+c0000000049D59223000000000000040A
+t1238733347
+s1034
+
+N/Users/jhjjang/iPhone/incn/juso/HTTPRequest.m
+c000000004EFA6F8A0000000000000DB7
+t1325035402
+s3511
+
+N/Users/jhjjang/iPhone/incn/juso/NSDataAdditions.h
+c000000004BF3E1060000000000000A67
+t1274274054
+s2663
+
+N/Users/jhjjang/iPhone/incn/juso/NSDataAdditions.m
+c000000004EF02CC000000000000025E0
+t1324362944
+s9696
+
+N/Users/jhjjang/iPhone/incn/juso/Resources/cauly_default_banner_ipad_large.png
+c000000004D0ABC1E0000000000014222
+t1292549150
+s82466
+
+N/Users/jhjjang/iPhone/incn/juso/Resources/cauly_default_banner_ipad_small.png
+c000000004D0ABC220000000000009813
+t1292549154
+s38931
+
+N/Users/jhjjang/iPhone/incn/juso/Resources/cauly_default_banner_iphone.png
+c000000004D0ABC1C00000000000101BF
+t1292549148
+s65983
+
+N/Users/jhjjang/iPhone/incn/juso/TBXML.h
+c000000004BF3E10600000000000012D1
+t1274274054
+s4817
+
+N/Users/jhjjang/iPhone/incn/juso/TBXML.m
+c000000004EF02CC60000000000004683
+t1324362950
+s18051
+
+N/Users/jhjjang/iPhone/incn/juso/bg01.png
+c000000004F3C5638000000000002469F
+t1329354296
+s149151
+
+N/Users/jhjjang/iPhone/incn/juso/bg01@2x.png
+c000000004F3C563800000000000630C5
+t1329354296
+s405701
+
+N/Users/jhjjang/iPhone/incn/juso/btn_submit.png
+c000000004EF92DDC0000000000000600
+t1324953052
+s1536
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app
+t1329356448
+s1700
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app.dSYM
+t1329356448
+s102
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_bg.png
+t1328599135
+s9002
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_bg@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn01.png
+t1328599135
+s8998
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn01@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn01o.png
+t1328599135
+s7854
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn01o@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn02.png
+t1328599135
+s8384
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn02@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn02o.png
+t1328599135
+s7684
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn02o@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_search.png
+t1328599135
+s11180
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_search2.png
+t1328599135
+s9533
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_search2@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_search@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_sel.png
+t1328599135
+s4551
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_sel@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/02_btn_fav.png
+t1328599135
+s6123
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/02_btn_fav@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/02_rbox.png
+t1328599135
+s3304
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/02_rbox@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/03_btn_fav.png
+t1328599135
+s5759
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/03_btn_fav@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/03_rbox.png
+t1328599135
+s3406
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/03_rbox@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/04_img01.png
+t1328599135
+s40706
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/04_img01@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/CompanyInfoViewController.nib
+t1329296985
+s1960
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/CustomCell.nib
+t1328599135
+s2781
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Default.png
+t1328599135
+s194910
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Default@2x.png
+t1328599135
+s545063
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Info.plist
+t1329096004
+s842
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/MultiResultViewController.nib
+t1328599134
+s2302
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/PkgInfo
+t1329096004
+s8
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/ResultViewController.nib
+t1328666731
+s3885
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/address.plist
+t1329270558
+s2725
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/bg01.png
+t1329354363
+s149151
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/bg01@2x.png
+t1329354363
+s405701
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/btn_submit.png
+t1328489480
+s1536
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_large.png
+t1328599133
+s82466
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_small.png
+t1328599133
+s38931
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/cauly_default_banner_iphone.png
+t1328599133
+s65983
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/dong.plist
+t1329350588
+s48647
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/FirstViewController.nib
+t1329354780
+s5779
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/InfoPlist.strings
+t1327982626
+s42
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/SecondViewController.nib
+t1328599133
+s1821
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/first.png
+t1328489479
+s253
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/first@2x.png
+t1328489479
+s402
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon-b.png
+t1328595507
+s23761
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon.png
+t1328595507
+s8915
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon@2x.png
+t1328599135
+s23761
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon_57.png
+t1328599135
+s5828
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/info.png
+t1329295441
+s157086
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/info@2x.png
+t1329295441
+s422818
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/intro.png
+t1328506375
+s194910
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/intro@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso
+t1329356448
+s657652
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/mapbg.png
+t1328599135
+s3435
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/mapbg@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi01.png
+t1328599135
+s4275
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi01@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi02.png
+t1328599135
+s4532
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi02@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi03.png
+t1329356448
+s1226
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi03@2x.png
+t2
+s0
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/radio-off.png
+t1328599135
+s867
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/radio-on.png
+t1328599135
+s1066
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/second.png
+t1328489480
+s128
+
+N/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/second@2x.png
+t1328489480
+s130
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/Annotation.o
+t1328599129
+s9464
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/AppDelegate.o
+t1329294090
+s67276
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CompanyInfoViewController.o
+t1329356448
+s39920
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CustomCell.o
+t1328599129
+s59688
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/FirstViewController.o
+t1329353758
+s161008
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/HTTPRequest.o
+t1328599129
+s20552
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/MultiResultViewController.o
+t1328599129
+s130064
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/NSDataAdditions.o
+t1328599129
+s16444
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/ResultViewController.o
+t1329095334
+s105984
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SecondViewController.o
+t1329354474
+s74256
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SetColor.o
+t1328599129
+s37820
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/TBXML.o
+t1328599129
+s35916
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/addressItem.o
+t1328599129
+s20068
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/juso.LinkFileList
+c000000004F27681E0000000000000680
+t1327982622
+s1664
+
+N/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/main.o
+t1328599128
+s2852
+
+N/Users/jhjjang/iPhone/incn/juso/icon-b.png
+c000000004F2F832A0000000000005CD1
+t1328513834
+s23761
+
+N/Users/jhjjang/iPhone/incn/juso/icon.png
+c000000004F2F832E00000000000022D3
+t1328513838
+s8915
+
+N/Users/jhjjang/iPhone/incn/juso/icon@2x.png
+c000000004F2F832A0000000000005CD1
+t1328513834
+s23761
+
+N/Users/jhjjang/iPhone/incn/juso/icon_57.png
+c000000004F30C63B00000000000016C4
+t1328596539
+s5828
+
+N/Users/jhjjang/iPhone/incn/juso/info.png
+c000000004F3B6DCA000000000002659E
+t1329294794
+s157086
+
+N/Users/jhjjang/iPhone/incn/juso/info@2x.png
+c000000004F3B6DCC00000000000673A2
+t1329294796
+s422818
+
+N/Users/jhjjang/iPhone/incn/juso/intro.png
+c000000004F2F6016000000000002F95E
+t1328504854
+s194910
+
+N/Users/jhjjang/iPhone/incn/juso/intro@2x.png
+c000000004F2F5C720000000000085127
+t1328503922
+s545063
+
+N/Users/jhjjang/iPhone/incn/juso/juso/Annotation.h
+c000000004F164A1D00000000000001EA
+t1326860829
+s490
+
+N/Users/jhjjang/iPhone/incn/juso/juso/Annotation.m
+c000000004F164A1B00000000000000F1
+t1326860827
+s241
+
+N/Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.h
+c000000004F225EFA0000000000000278
+t1327652602
+s632
+
+N/Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.m
+c000000004F3B28B600000000000021D9
+t1329277110
+s8665
+
+N/Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.h
+c000000004F225EA300000000000000E9
+t1327652515
+s233
+
+N/Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.m
+c000000004F3C5E9F0000000000000411
+t1329356447
+s1041
+
+N/Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.xib
+c000000004F3B7655000000000000313C
+t1329296981
+s12604
+
+N/Users/jhjjang/iPhone/incn/juso/juso/CustomCell.h
+c000000004F2265740000000000000265
+t1327654260
+s613
+
+N/Users/jhjjang/iPhone/incn/juso/juso/CustomCell.m
+c000000004F2F8C0C0000000000000C5C
+t1328516108
+s3164
+
+N/Users/jhjjang/iPhone/incn/juso/juso/CustomCell.xib
+c000000004F2F83D30000000000004476
+t1328514003
+s17526
+
+N/Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.h
+c000000004F3B6B0A0000000000000B6D
+t1329294090
+s2925
+
+N/Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m
+c000000004F3C5418000000000000689A
+t1329353752
+s26778
+
+N/Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.h
+c000000004F223D3C000000000000095C
+t1327643964
+s2396
+
+N/Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m
+c000000004F2F8BC10000000000003885
+t1328516033
+s14469
+
+N/Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.xib
+c000000004F2F848400000000000047A7
+t1328514180
+s18343
+
+N/Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.h
+c000000004F31D9110000000000000765
+t1328666897
+s1893
+
+N/Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.m
+c000000004F31F31E0000000000002996
+t1328673566
+s10646
+
+N/Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.xib
+c000000004F31D8680000000000006B33
+t1328666728
+s27443
+
+N/Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.h
+c000000004F17D4D500000000000002E3
+t1326961877
+s739
+
+N/Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m
+c000000004F3C56E900000000000014F7
+t1329354473
+s5367
+
+N/Users/jhjjang/iPhone/incn/juso/juso/SetColor.h
+c000000004EF437060000000000000109
+t1324627718
+s265
+
+N/Users/jhjjang/iPhone/incn/juso/juso/SetColor.m
+c000000004EF4370800000000000002D6
+t1324627720
+s726
+
+N/Users/jhjjang/iPhone/incn/juso/juso/address.plist
+c000000004F3B02EE0000000000001EF1
+t1329267438
+s7921
+
+N/Users/jhjjang/iPhone/incn/juso/juso/addressItem.h
+c000000004F1F924F0000000000000491
+t1327469135
+s1169
+
+N/Users/jhjjang/iPhone/incn/juso/juso/addressItem.m
+c000000004F1F924D0000000000000274
+t1327469133
+s628
+
+N/Users/jhjjang/iPhone/incn/juso/juso/dong.plist
+c000000004F3C47BB0000000000026A34
+t1329350587
+s158260
+
+N/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/FirstViewController.xib
+c000000004F3C581A000000000000C586
+t1329354778
+s50566
+
+N/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/InfoPlist.strings
+c000000004F0FD4A6000000000000002D
+t1326437542
+s45
+
+N/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/SecondViewController.xib
+c000000004F3070EF0000000000003427
+t1328574703
+s13351
+
+N/Users/jhjjang/iPhone/incn/juso/juso/first.png
+c000000004EB9B72D00000000000000FD
+t1320793901
+s253
+
+N/Users/jhjjang/iPhone/incn/juso/juso/first@2x.png
+c000000004EB9B72D0000000000000192
+t1320793901
+s402
+
+N/Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch
+c000000004F0FD4A60000000000000137
+t1326437542
+s311
+
+N/Users/jhjjang/iPhone/incn/juso/juso/main.m
+c000000004F0FD4A6000000000000014C
+t1326437542
+s332
+
+N/Users/jhjjang/iPhone/incn/juso/juso/second.png
+c000000004EB9B72D0000000000000080
+t1320793901
+s128
+
+N/Users/jhjjang/iPhone/incn/juso/juso/second@2x.png
+c000000004EB9B72D0000000000000082
+t1320793901
+s130
+
+N/Users/jhjjang/iPhone/incn/juso/libCaulyDevice.a
+c000000004EF042B0000000000020BDA8
+t1324368560
+s2145704
+
+N/Users/jhjjang/iPhone/incn/juso/libCaulySimulator.a
+c000000004EF042DB00000000000F2D60
+t1324368603
+s994656
+
+N/Users/jhjjang/iPhone/incn/juso/mapbg.png
+c000000004F2F60100000000000000D6B
+t1328504848
+s3435
+
+N/Users/jhjjang/iPhone/incn/juso/mapbg@2x.png
+c000000004F2F446400000000000010E9
+t1328497764
+s4329
+
+N/Users/jhjjang/iPhone/incn/juso/navi01.png
+c000000004F2F600A00000000000010B3
+t1328504842
+s4275
+
+N/Users/jhjjang/iPhone/incn/juso/navi01@2x.png
+c000000004F2F3A46000000000000171B
+t1328495174
+s5915
+
+N/Users/jhjjang/iPhone/incn/juso/navi02.png
+c000000004F2F5FFE00000000000011B4
+t1328504830
+s4532
+
+N/Users/jhjjang/iPhone/incn/juso/navi02@2x.png
+c000000004F2F3A5A00000000000016ED
+t1328495194
+s5869
+
+N/Users/jhjjang/iPhone/incn/juso/navi03.png
+c000000004F3C5E3C00000000000004CA
+t1329356348
+s1226
+
+N/Users/jhjjang/iPhone/incn/juso/navi03@2x.png
+c000000004F2F3A6E0000000000001352
+t1328495214
+s4946
+
+N/Users/jhjjang/iPhone/incn/juso/radio-off.png
+c000000004F20B3AF0000000000000363
+t1327543215
+s867
+
+N/Users/jhjjang/iPhone/incn/juso/radio-on.png
+c000000004F20B3CD000000000000042A
+t1327543245
+s1066
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F0371B80000000000000132
+t1325625784
+s306
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004F067C7E00000000002051E0
+t1325825150
+s2118112
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F067C820000000000244470
+t1325825154
+s2376816
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004F067C830000000000089510
+t1325825155
+s562448
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F067C940000000000353830
+t1325825172
+s3487792
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004F067CA600000000000D9D50
+t1325825190
+s892240
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004F067CAC00000000000CA770
+t1325825196
+s829296
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F067CAD00000000001AB190
+t1325825197
+s1749392
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004F067CB2000000000006C8A0
+t1325825202
+s444576
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F067CBB0000000000905BE0
+t1325825211
+s9460704
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib/libz.dylib
+c000000004F067D790000000000013460
+t1325825401
+s78944
+
+N/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch.pth
+t1328599128
+s3931988
+
+N/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-dcswjjynxijsmaeonzddmhcgpiic/juso-Prefix.pch.pth
+t1327982624
+s4051304
+
+N/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-fotutrgsyfrtjsgpsyvxqauyfsuz/juso-Prefix.pch.pth
+t1328489473
+s4049980
+
+N/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-gyoqqmhstflmyhdarpjugeatagbq/juso-Prefix.pch.pth
+t1328230666
+s4051304
+
+Njuso/juso-Info.plist
+c000000004F38653D00000000000005AE
+t1329095997
+s1454
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/HTTPRequest.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/NSDataAdditions.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/TBXML.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/Annotation.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/SetColor.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/addressItem.m
+r0
+
+CBuild AST from /Users/jhjjang/iPhone/incn/juso/juso/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4f031a4607eeb441^f8a4eb4607eeb441^---0#1#0#--18"Check dependencies36"1C65AF38-9EBE-413D-BA20-6C04A53305F4-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/Annotation.o /Users/jhjjang/iPhone/incn/juso/juso/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291929.380070
+e350291929.458977
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/Annotation.o
+x/Users/jhjjang/iPhone/incn/juso/juso/Annotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/jhjjang/iPhone/incn/juso/juso/Annotation.m568261d907e1b441^e28fa6d907e1b441^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/Annotation.m0000000000000000^2491"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/Annotation.o juso/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/Annotation.d -c /Users/jhjjang/iPhone/incn/juso/juso/Annotation.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/Annotation.o36"F02F3084-A441-4D81-A272-537DDF2DE8D0-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/AppDelegate.o /Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350986890.337102
+e350986890.434397
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/AppDelegate.o
+x/Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.mba6a568aa2ebb441^c6346f8aa2ebb441^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.m0000000000000000^2496"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/AppDelegate.o juso/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/AppDelegate.d -c /Users/jhjjang/iPhone/incn/juso/juso/AppDelegate.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/AppDelegate.o36"74487D47-8A29-4859-8288-DFD2B2E422E8-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CompanyInfoViewController.o /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351049248.410693
+e351049248.517957
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CompanyInfoViewController.o
+x/Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.mc442692096ecb441^3e26862096ecb441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.m0000000000000000^2566"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CompanyInfoViewController.o juso/CompanyInfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CompanyInfoViewController.d -c /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CompanyInfoViewController.o36"900BADC3-A8B2-4EB8-A5CB-E74445F042EF-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CustomCell.o /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291929.658480
+e350291929.787199
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CustomCell.o
+x/Users/jhjjang/iPhone/incn/juso/juso/CustomCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.mf9bea8d907e1b441^cb86c9d907e1b441^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/CustomCell.m0000000000000000^2491"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CustomCell.o juso/CustomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CustomCell.d -c /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/CustomCell.o36"E5ABB1D8-A805-47DB-907E-2F559B58265F-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/FirstViewController.o /Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351046558.180708
+e351046558.367337
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/FirstViewController.o
+x/Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m05692e9e8becb441^4e0b5e9e8becb441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m0000000000000000^2536"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/FirstViewController.o juso/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/FirstViewController.d -c /Users/jhjjang/iPhone/incn/juso/juso/FirstViewController.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/FirstViewController.o36"75440002-F640-4030-82BC-A2CEB0EFA9CA-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/HTTPRequest.o /Users/jhjjang/iPhone/incn/juso/HTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291928.996208
+e350291929.117241
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/HTTPRequest.o
+x/Users/jhjjang/iPhone/incn/juso/HTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/jhjjang/iPhone/incn/juso/HTTPRequest.mdd27ffd807e1b441^4f031ed907e1b441^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/jhjjang/iPhone/incn/juso/HTTPRequest.m0000000000000000^2486"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/HTTPRequest.o HTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/HTTPRequest.d -c /Users/jhjjang/iPhone/incn/juso/HTTPRequest.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/HTTPRequest.o36"934129B9-1B23-4FBA-BCA6-A8BB4442222E-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/MultiResultViewController.o /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291929.465468
+e350291929.788083
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/MultiResultViewController.o
+x/Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m5f9977d907e1b441^59bfc9d907e1b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m0000000000000000^2566"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/MultiResultViewController.o juso/MultiResultViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/MultiResultViewController.d -c /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/MultiResultViewController.o36"1C4485F7-D7E6-4F17-B2EB-12CA2FA4A6D2-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/NSDataAdditions.o /Users/jhjjang/iPhone/incn/juso/NSDataAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291929.118552
+e350291929.210476
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/NSDataAdditions.o
+x/Users/jhjjang/iPhone/incn/juso/NSDataAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/jhjjang/iPhone/incn/juso/NSDataAdditions.ma9bf1ed907e1b441^7ee135d907e1b441^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/jhjjang/iPhone/incn/juso/NSDataAdditions.m0000000000000000^2506"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/NSDataAdditions.o NSDataAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/NSDataAdditions.d -c /Users/jhjjang/iPhone/incn/juso/NSDataAdditions.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/NSDataAdditions.o36"5D5691E4-1700-49C2-BD41-4873AF953FEC-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/ResultViewController.o /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350788133.023636
+e350788134.623425
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/ResultViewController.o
+x/Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.mf52e06259ae8b441^85989f269ae8b441^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.m0000000000000000^2541"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/ResultViewController.o juso/ResultViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/ResultViewController.d -c /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/ResultViewController.o36"830F6AF7-919F-4589-8BEE-947809ECB979-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SecondViewController.o /Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s351047274.446362
+e351047274.527835
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SecondViewController.o
+x/Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m855f726a8eecb441^7330876a8eecb441^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m0000000000000000^2541"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SecondViewController.o juso/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SecondViewController.d -c /Users/jhjjang/iPhone/incn/juso/juso/SecondViewController.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SecondViewController.o36"1B48D3D0-B700-4775-B5D9-B57F4A42F3B2-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SetColor.o /Users/jhjjang/iPhone/incn/juso/juso/SetColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291929.211604
+e350291929.272424
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SetColor.o
+x/Users/jhjjang/iPhone/incn/juso/juso/SetColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/jhjjang/iPhone/incn/juso/juso/SetColor.m894336d907e1b441^51bd45d907e1b441^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/SetColor.m0000000000000000^2481"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SetColor.o juso/SetColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SetColor.d -c /Users/jhjjang/iPhone/incn/juso/juso/SetColor.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/SetColor.o36"5A06A6C7-1C52-4A0D-A25D-4F89E9ACBF29-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/TBXML.o /Users/jhjjang/iPhone/incn/juso/TBXML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291929.211008
+e350291929.376233
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/TBXML.o
+x/Users/jhjjang/iPhone/incn/juso/TBXML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:258:22:{258:9-258:48}: warning: using the result of an assignment as a condition without parentheses [-Wparentheses,3]
+o         while (elementStart = strstr(elementStart,"<")) {
+o                ~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:258:22: note: place parentheses around the assignment to silence this warning [3]
+o         while (elementStart = strstr(elementStart,"<")) {
+o                             ^
+o                (                                      )
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{258:9-258:9}:"("
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{258:48-258:48}:")"
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:258:22: note: use '==' to turn this assignment into an equality comparison [3]
+o         while (elementStart = strstr(elementStart,"<")) {
+o                             ^
+o                             ==
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{258:22-258:23}:"=="
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:311:21:{311:10-311:48}: warning: using the result of an assignment as a condition without parentheses [-Wparentheses,3]
+o                 while (elementEnd = strpbrk(elementEnd, "<>")) {
+o                        ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:311:21: note: place parentheses around the assignment to silence this warning [3]
+o                 while (elementEnd = strpbrk(elementEnd, "<>")) {
+o                                   ^
+o                        (                                     )
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{311:10-311:10}:"("
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{311:48-311:48}:")"
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:311:21: note: use '==' to turn this assignment into an equality comparison [3]
+o                 while (elementEnd = strpbrk(elementEnd, "<>")) {
+o                                   ^
+o                                   ==
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{311:21-311:22}:"=="
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:458:26:{458:15-458:54}: warning: using the result of an assignment as a condition without parentheses [-Wparentheses,3]
+o                                                         while (CDATAStart = strstr(value, "<![CDATA[")) {
+o                                                                ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:458:26: note: place parentheses around the assignment to silence this warning [3]
+o                                                         while (CDATAStart = strstr(value, "<![CDATA[")) {
+o                                                                           ^
+o                                                                (                                      )
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{458:15-458:15}:"("
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{458:54-458:54}:")"
+o/Users/jhjjang/iPhone/incn/juso/TBXML.m:458:26: note: use '==' to turn this assignment into an equality comparison [3]
+o                                                         while (CDATAStart = strstr(value, "<![CDATA[")) {
+o                                                                           ^
+o                                                                           ==
+ofix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{458:26-458:27}:"=="
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/jhjjang/iPhone/incn/juso/TBXML.m0c2236d907e1b441^672ca6d907e1b441^-3429"/Users/jhjjang/iPhone/incn/juso/TBXML.m:258:22:{258:9-258:48}: warning: using the result of an assignment as a condition without parentheses [-Wparentheses,3]         while (elementStart = strstr(elementStart,"<")) {                ~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~/Users/jhjjang/iPhone/incn/juso/TBXML.m:258:22: note: place parentheses around the assignment to silence this warning [3]         while (elementStart = strstr(elementStart,"<")) {                             ^                (                                      )fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{258:9-258:9}:"("fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{258:48-258:48}:")"/Users/jhjjang/iPhone/incn/juso/TBXML.m:258:22: note: use '==' to turn this assignment into an equality comparison [3]         while (elementStart = strstr(elementStart,"<")) {                             ^                             ==fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{258:22-258:23}:"=="/Users/jhjjang/iPhone/incn/juso/TBXML.m:311:21:{311:10-311:48}: warning: using the result of an assignment as a condition without parentheses [-Wparentheses,3]                 while (elementEnd = strpbrk(elementEnd, "<>")) {                        ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/jhjjang/iPhone/incn/juso/TBXML.m:311:21: note: place parentheses around the assignment to silence this warning [3]                 while (elementEnd = strpbrk(elementEnd, "<>")) {                                   ^                        (                                     )fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{311:10-311:10}:"("fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{311:48-311:48}:")"/Users/jhjjang/iPhone/incn/juso/TBXML.m:311:21: note: use '==' to turn this assignment into an equality comparison [3]                 while (elementEnd = strpbrk(elementEnd, "<>")) {                                   ^                                   ==fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{311:21-311:22}:"=="/Users/jhjjang/iPhone/incn/juso/TBXML.m:458:26:{458:15-458:54}: warning: using the result of an assignment as a condition without parentheses [-Wparentheses,3]                                                         while (CDATAStart = strstr(value, "<![CDATA[")) {                                                                ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/jhjjang/iPhone/incn/juso/TBXML.m:458:26: note: place parentheses around the assignment to silence this warning [3]                                                         while (CDATAStart = strstr(value, "<![CDATA[")) {                                                                           ^                                                                (                                      )fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{458:15-458:15}:"("fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{458:54-458:54}:")"/Users/jhjjang/iPhone/incn/juso/TBXML.m:458:26: note: use '==' to turn this assignment into an equality comparison [3]                                                         while (CDATAStart = strstr(value, "<![CDATA[")) {                                                                           ^                                                                           ==fix-it:"/Users/jhjjang/iPhone/incn/juso/TBXML.m":{458:26-458:27}:"=="3 warnings generated.3(21%IDEActivityLogMessage2@68"Using the result of an assignment as a condition without parentheses-350291929#0#159#5(2@63"Place parentheses around the assignment to silence this warning-350291929#274#122#-0#-23%DVTTextDocumentLocation3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^257#21#257#21#18446744073709551615#0#14"Semantic Issue--26%IDEActivityLogFixItMessage4@22"Fix-It: replace with (-350291929#543#67#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^257#8#257#8#18446744073709551615#0#---1"(4@22"Fix-It: replace with )-350291929#610#69#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^257#47#257#47#18446744073709551615#0#---1")2@60"Use '==' to turn this assignment into an equality comparison-350291929#679#119#-0#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^257#21#257#21#18446744073709551615#0#14"Semantic Issue--4@23"Fix-It: replace with ==-350291929#920#70#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^257#21#257#22#18446744073709551615#0#---2"==1#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^257#21#257#21#18446744073709551615#0#14"Semantic Issue1(3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^257#8#257#47#18446744073709551615#0#-2@68"Using the result of an assignment as a condition without parentheses-350291929#990#160#5(2@63"Place parentheses around the assignment to silence this warning-350291929#1279#122#-0#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^310#20#310#20#18446744073709551615#0#14"Semantic Issue--4@22"Fix-It: replace with (-350291929#1568#69#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^310#9#310#9#18446744073709551615#0#---1"(4@22"Fix-It: replace with )-350291929#1637#69#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^310#47#310#47#18446744073709551615#0#---1")2@60"Use '==' to turn this assignment into an equality comparison-350291929#1706#119#-0#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^310#20#310#20#18446744073709551615#0#14"Semantic Issue--4@23"Fix-It: replace with ==-350291929#1966#70#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^310#20#310#21#18446744073709551615#0#---2"==1#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^310#20#310#20#18446744073709551615#0#14"Semantic Issue1(3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^310#9#310#47#18446744073709551615#0#-2@68"Using the result of an assignment as a condition without parentheses-350291929#2036#160#5(2@63"Place parentheses around the assignment to silence this warning-350291929#2407#122#-0#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^457#25#457#25#18446744073709551615#0#14"Semantic Issue--4@22"Fix-It: replace with (-350291929#2818#69#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^457#14#457#14#18446744073709551615#0#---1"(4@22"Fix-It: replace with )-350291929#2887#69#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^457#53#457#53#18446744073709551615#0#---1")2@60"Use '==' to turn this assignment into an equality comparison-350291929#2956#119#-0#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^457#25#457#25#18446744073709551615#0#14"Semantic Issue--4@23"Fix-It: replace with ==-350291929#3337#70#-0#23"com.apple.dt.IDE.fix-it3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^457#25#457#26#18446744073709551615#0#---2"==1#-3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^457#25#457#25#18446744073709551615#0#14"Semantic Issue1(3@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^457#14#457#53#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation5@55"file://localhost/Users/jhjjang/iPhone/incn/juso/TBXML.m0000000000000000^2456"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/TBXML.o TBXML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/TBXML.d -c /Users/jhjjang/iPhone/incn/juso/TBXML.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/TBXML.o36"6C7A39EF-BA0D-46AB-945E-8F1A9F379F22-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/addressItem.o /Users/jhjjang/iPhone/incn/juso/juso/addressItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291929.273963
+e350291929.347172
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/addressItem.o
+x/Users/jhjjang/iPhone/incn/juso/juso/addressItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/jhjjang/iPhone/incn/juso/juso/addressItem.md54146d907e1b441^3eec59d907e1b441^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/addressItem.m0000000000000000^2496"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/addressItem.o juso/addressItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/addressItem.d -c /Users/jhjjang/iPhone/incn/juso/juso/addressItem.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/addressItem.o36"5EFDBFDD-2D92-4BB5-9815-9F78412C2793-
+
+CCompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/main.o /Users/jhjjang/iPhone/incn/juso/juso/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291928.589478
+e350291928.881102
+r1
+xCompileC
+xbuild/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/main.o
+x/Users/jhjjang/iPhone/incn/juso/juso/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/jhjjang/iPhone/incn/juso/juso/main.m460897d807e1b441^e78fe1d807e1b441^---0#0#0#-19%DVTDocumentLocation2@59"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/main.m0000000000000000^2461"CompileC build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/main.o juso/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -include /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch -MMD -MT dependencies -MF /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/main.d -c /Users/jhjjang/iPhone/incn/juso/juso/main.m -o /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/main.o36"C161980D-5617-4247-8930-ED7F24D5FF76-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.xib
+s350989784.818610
+e350989785.266494
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compiling /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.xibb4aad1d8adebb441^ecdc44d9adebb441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.xib0000000000000000^685"CompileXIB juso/CompanyInfoViewController.xib    cd /Users/jhjjang/iPhone/incn/juso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/CompanyInfoViewController.nib /Users/jhjjang/iPhone/incn/juso/juso/CompanyInfoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"73B444A9-4312-4E61-BC17-874B7CFFD42E-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.xib
+s350291934.746930
+e350291935.142721
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/juso/juso/CustomCell.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compiling /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.xiba54bbfde07e1b441^209724df07e1b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/CustomCell.xib0000000000000000^640"CompileXIB juso/CustomCell.xib    cd /Users/jhjjang/iPhone/incn/juso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/CustomCell.nib /Users/jhjjang/iPhone/incn/juso/juso/CustomCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"D34CEF91-6B6F-4C61-9F6E-90808BC94FD6-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.xib
+s350291933.964084
+e350291934.745491
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compiling /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.xibe7e3f6dd07e1b441^f8e3bede07e1b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.xib0000000000000000^685"CompileXIB juso/MultiResultViewController.xib    cd /Users/jhjjang/iPhone/incn/juso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/MultiResultViewController.nib /Users/jhjjang/iPhone/incn/juso/juso/MultiResultViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"86546541-9E3F-4271-85E1-DB6FA48613FA-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.xib
+s350359530.229873
+e350359531.605220
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compiling /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.xib24f13aea0fe2b441^26fc9aeb0fe2b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.xib0000000000000000^670"CompileXIB juso/ResultViewController.xib    cd /Users/jhjjang/iPhone/incn/juso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/ResultViewController.nib /Users/jhjjang/iPhone/incn/juso/juso/ResultViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"112D9B34-FCED-479F-B0C3-09FA3A3E45BE-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/FirstViewController.xib
+s351047579.993703
+e351047580.121121
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/FirstViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compiling /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/FirstViewController.xib8e74fe9b8fecb441^a3021f9c8fecb441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/FirstViewController.xib0000000000000000^694"CompileXIB juso/en.lproj/FirstViewController.xib    cd /Users/jhjjang/iPhone/incn/juso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/FirstViewController.nib /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/FirstViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"0255ACD4-800C-4464-922B-0B2EEDDB35C5-
+
+CCompileXIB /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/SecondViewController.xib
+s350291931.788814
+e350291933.484240
+r1
+xCompileXIB
+x/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/SecondViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compiling /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/SecondViewController.xib4b00cadb07e1b441^e6057cdd07e1b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/SecondViewController.xib0000000000000000^697"CompileXIB juso/en.lproj/SecondViewController.xib    cd /Users/jhjjang/iPhone/incn/juso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/SecondViewController.nib /Users/jhjjang/iPhone/incn/juso/juso/en.lproj/SecondViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"4B80DFC9-FACE-433B-85F9-FF1CBFE36771-
+
+CCopyPlistFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/address.plist juso/address.plist
+s350963358.794910
+e350963358.800500
+r1
+xCopyPlistFile
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/address.plist
+xjuso/address.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection23"Copy juso/address.plist7993cb9e46ebb441^41f4cc9e46ebb441^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/address.plist0000000000000000^394"CopyPlistFile build/Debug-iphonesimulator/juso.app/address.plist juso/address.plist    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app -- juso/address.plist36"399A5E98-AB17-4D05-855C-58FE491AD178-
+
+CCopyPlistFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/dong.plist juso/dong.plist
+s351043388.671298
+e351043388.699356
+r1
+xCopyPlistFile
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/dong.plist
+xjuso/dong.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection20"Copy juso/dong.plist3aebab3c7fecb441^5ebcb33c7fecb441^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/dong.plist0000000000000000^385"CopyPlistFile build/Debug-iphonesimulator/juso.app/dong.plist juso/dong.plist    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app -- juso/dong.plist36"19FC7291-B9FC-4306-8DC9-DF7B7DBE0FCF-
+
+CCopyStringsFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/InfoPlist.strings juso/en.lproj/InfoPlist.strings
+s349675426.774377
+e349675426.800846
+r1
+xCopyStringsFile
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj/InfoPlist.strings
+xjuso/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy juso/en.lproj/InfoPlist.stringsc059c6a29fd7b441^c807cda29fd7b441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/en.lproj/InfoPlist.strings0000000000000000^551"CopyStringsFile build/Debug-iphonesimulator/juso.app/en.lproj/InfoPlist.strings juso/en.lproj/InfoPlist.strings    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/en.lproj -- juso/en.lproj/InfoPlist.strings36"FA3C8726-26FD-4DEB-A3C6-E7116199EC4E-
+
+CCpResource 01_bg.png build/Debug-iphonesimulator/juso.app/01_bg.png
+s350291935.244675
+e350291935.288069
+r1
+xCpResource
+x01_bg.png
+xbuild/Debug-iphonesimulator/juso.app/01_bg.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Debug-iphonesimulator/juso.app/01_bg.png13b73edf07e1b441^8eca49df07e1b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_bg.png0000000000000000^461"CpResource 01_bg.png build/Debug-iphonesimulator/juso.app/01_bg.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_bg.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"723D728A-8DE5-43AA-8784-FDDA80379D40-
+
+CCpResource 01_bg@2x.png build/Debug-iphonesimulator/juso.app/01_bg@2x.png
+r0
+
+CCpResource 01_btn01.png build/Debug-iphonesimulator/juso.app/01_btn01.png
+s350291935.333121
+e350291935.371473
+r1
+xCpResource
+x01_btn01.png
+xbuild/Debug-iphonesimulator/juso.app/01_btn01.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/juso.app/01_btn01.pngaf5a55df07e1b441^85245fdf07e1b441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn01.png0000000000000000^470"CpResource 01_btn01.png build/Debug-iphonesimulator/juso.app/01_btn01.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_btn01.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"11CD0829-55DB-4B4A-A4B9-CD5AA07CA06B-
+
+CCpResource 01_btn01@2x.png build/Debug-iphonesimulator/juso.app/01_btn01@2x.png
+r0
+
+CCpResource 01_btn01o.png build/Debug-iphonesimulator/juso.app/01_btn01o.png
+s350291935.374798
+e350291935.378289
+r1
+xCpResource
+x01_btn01o.png
+xbuild/Debug-iphonesimulator/juso.app/01_btn01o.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/juso.app/01_btn01o.pngd92360df07e1b441^3fe160df07e1b441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn01o.png0000000000000000^473"CpResource 01_btn01o.png build/Debug-iphonesimulator/juso.app/01_btn01o.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_btn01o.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"A6309BFE-A472-4157-A4E7-101B9858B7BA-
+
+CCpResource 01_btn01o@2x.png build/Debug-iphonesimulator/juso.app/01_btn01o@2x.png
+r0
+
+CCpResource 01_btn02.png build/Debug-iphonesimulator/juso.app/01_btn02.png
+s350291935.379515
+e350291935.382712
+r1
+xCpResource
+x01_btn02.png
+xbuild/Debug-iphonesimulator/juso.app/01_btn02.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/juso.app/01_btn02.png2e3a61df07e1b441^860262df07e1b441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn02.png0000000000000000^470"CpResource 01_btn02.png build/Debug-iphonesimulator/juso.app/01_btn02.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_btn02.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"F400664F-F618-476F-A14F-ECF1FD870D1C-
+
+CCpResource 01_btn02@2x.png build/Debug-iphonesimulator/juso.app/01_btn02@2x.png
+r0
+
+CCpResource 01_btn02o.png build/Debug-iphonesimulator/juso.app/01_btn02o.png
+s350291935.383946
+e350291935.390722
+r1
+xCpResource
+x01_btn02o.png
+xbuild/Debug-iphonesimulator/juso.app/01_btn02o.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/juso.app/01_btn02o.png5b5d62df07e1b441^770f64df07e1b441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn02o.png0000000000000000^473"CpResource 01_btn02o.png build/Debug-iphonesimulator/juso.app/01_btn02o.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_btn02o.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"73DD1399-2BEF-49A6-839F-9E3FC14CAB33-
+
+CCpResource 01_btn02o@2x.png build/Debug-iphonesimulator/juso.app/01_btn02o@2x.png
+r0
+
+CCpResource 01_btn_search.png build/Debug-iphonesimulator/juso.app/01_btn_search.png
+s350291935.291265
+e350291935.295755
+r1
+xCpResource
+x01_btn_search.png
+xbuild/Debug-iphonesimulator/juso.app/01_btn_search.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/juso.app/01_btn_search.png7ec54adf07e1b441^6ac14bdf07e1b441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_search.png0000000000000000^485"CpResource 01_btn_search.png build/Debug-iphonesimulator/juso.app/01_btn_search.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_btn_search.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"8754D7FD-0089-49A5-88CE-442EDAAEDEB1-
+
+CCpResource 01_btn_search2.png build/Debug-iphonesimulator/juso.app/01_btn_search2.png
+s350291935.297007
+e350291935.299979
+r1
+xCpResource
+x01_btn_search2.png
+xbuild/Debug-iphonesimulator/juso.app/01_btn_search2.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/juso.app/01_btn_search2.png541b4cdf07e1b441^5ed64cdf07e1b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_search2.png0000000000000000^488"CpResource 01_btn_search2.png build/Debug-iphonesimulator/juso.app/01_btn_search2.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_btn_search2.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"BA3C1E6C-30DA-4AF0-A560-5E9EC8B91CE4-
+
+CCpResource 01_btn_search2@2x.png build/Debug-iphonesimulator/juso.app/01_btn_search2@2x.png
+r0
+
+CCpResource 01_btn_search@2x.png build/Debug-iphonesimulator/juso.app/01_btn_search@2x.png
+r0
+
+CCpResource 01_btn_sel.png build/Debug-iphonesimulator/juso.app/01_btn_sel.png
+s350291935.301260
+e350291935.331869
+r1
+xCpResource
+x01_btn_sel.png
+xbuild/Debug-iphonesimulator/juso.app/01_btn_sel.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/juso.app/01_btn_sel.png09334ddf07e1b441^a40055df07e1b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/01_btn_sel.png0000000000000000^476"CpResource 01_btn_sel.png build/Debug-iphonesimulator/juso.app/01_btn_sel.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/01_btn_sel.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"1CF2E2A9-8ACD-44B9-9900-570D6C98469A-
+
+CCpResource 01_btn_sel@2x.png build/Debug-iphonesimulator/juso.app/01_btn_sel@2x.png
+r0
+
+CCpResource 02_btn_fav.png build/Debug-iphonesimulator/juso.app/02_btn_fav.png
+s350291935.391967
+e350291935.395023
+r1
+xCpResource
+x02_btn_fav.png
+xbuild/Debug-iphonesimulator/juso.app/02_btn_fav.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/juso.app/02_btn_fav.png586f64df07e1b441^172865df07e1b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/02_btn_fav.png0000000000000000^476"CpResource 02_btn_fav.png build/Debug-iphonesimulator/juso.app/02_btn_fav.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/02_btn_fav.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"E618BDF0-585C-43A8-A5DE-01C2751016B3-
+
+CCpResource 02_btn_fav@2x.png build/Debug-iphonesimulator/juso.app/02_btn_fav@2x.png
+r0
+
+CCpResource 02_rbox.png build/Debug-iphonesimulator/juso.app/02_rbox.png
+s350291935.396308
+e350291935.399993
+r1
+xCpResource
+x02_rbox.png
+xbuild/Debug-iphonesimulator/juso.app/02_rbox.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/juso.app/02_rbox.png558665df07e1b441^776666df07e1b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/02_rbox.png0000000000000000^467"CpResource 02_rbox.png build/Debug-iphonesimulator/juso.app/02_rbox.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/02_rbox.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"99352982-B2DC-46F7-96E5-C600FC03EDFF-
+
+CCpResource 02_rbox@2x.png build/Debug-iphonesimulator/juso.app/02_rbox@2x.png
+r0
+
+CCpResource 03_btn_fav.png build/Debug-iphonesimulator/juso.app/03_btn_fav.png
+s350291935.401301
+e350291935.404676
+r1
+xCpResource
+x03_btn_fav.png
+xbuild/Debug-iphonesimulator/juso.app/03_btn_fav.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/juso.app/03_btn_fav.pngedd666df07e1b441^31d267df07e1b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/03_btn_fav.png0000000000000000^476"CpResource 03_btn_fav.png build/Debug-iphonesimulator/juso.app/03_btn_fav.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/03_btn_fav.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"DD7A7ADE-D5D3-4EA0-80FC-5943BA30F442-
+
+CCpResource 03_btn_fav@2x.png build/Debug-iphonesimulator/juso.app/03_btn_fav@2x.png
+r0
+
+CCpResource 03_rbox.png build/Debug-iphonesimulator/juso.app/03_rbox.png
+s350291935.405839
+e350291935.409066
+r1
+xCpResource
+x03_rbox.png
+xbuild/Debug-iphonesimulator/juso.app/03_rbox.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/juso.app/03_rbox.pnge0f767df07e1b441^02b968df07e1b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/03_rbox.png0000000000000000^467"CpResource 03_rbox.png build/Debug-iphonesimulator/juso.app/03_rbox.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/03_rbox.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"1205C59B-CC91-447C-9851-82CF815AEAC3-
+
+CCpResource 03_rbox@2x.png build/Debug-iphonesimulator/juso.app/03_rbox@2x.png
+r0
+
+CCpResource 04_img01.png build/Debug-iphonesimulator/juso.app/04_img01.png
+s350291935.410423
+e350291935.414005
+r1
+xCpResource
+x04_img01.png
+xbuild/Debug-iphonesimulator/juso.app/04_img01.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/juso.app/04_img01.png682169df07e1b441^b1fc69df07e1b441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/04_img01.png0000000000000000^470"CpResource 04_img01.png build/Debug-iphonesimulator/juso.app/04_img01.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/04_img01.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"0C226BDE-CB92-4296-B093-FDAF35D94394-
+
+CCpResource 04_img01@2x.png build/Debug-iphonesimulator/juso.app/04_img01@2x.png
+r0
+
+CCpResource Default.png build/Debug-iphonesimulator/juso.app/Default.png
+s350291935.521781
+e350291935.591683
+r1
+xCpResource
+xDefault.png
+xbuild/Debug-iphonesimulator/juso.app/Default.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/juso.app/Default.pnga4a685df07e1b441^d88197df07e1b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Default.png0000000000000000^467"CpResource Default.png build/Debug-iphonesimulator/juso.app/Default.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/Default.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"CCE0ADEF-5855-4C4C-98EA-EDE507453149-
+
+CCpResource Default@2x.png build/Debug-iphonesimulator/juso.app/Default@2x.png
+s350291935.593067
+e350291935.690257
+r1
+xCpResource
+xDefault@2x.png
+xbuild/Debug-iphonesimulator/juso.app/Default@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/juso.app/Default@2x.png53e997df07e1b441^35b5b0df07e1b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Default@2x.png0000000000000000^482"CpResource "Default@2x.png" "build/Debug-iphonesimulator/juso.app/Default@2x.png"    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/juso/Default@2x.png" /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"DE2A8650-3B65-4439-9A6E-08967BB78755-
+
+CCpResource Resources/cauly_default_banner_ipad_large.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_large.png
+s350291933.891292
+e350291933.909882
+r1
+xCpResource
+xResources/cauly_default_banner_ipad_large.png
+xbuild/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_large.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_large.pnga642e4dd07e1b441^05fae8dd07e1b441^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_large.png0000000000000000^559"CpResource Resources/cauly_default_banner_ipad_large.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_large.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/Resources/cauly_default_banner_ipad_large.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"A8E8F342-D2A0-4ABE-BEAC-5434566CB699-
+
+CCpResource Resources/cauly_default_banner_ipad_small.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_small.png
+s350291933.911137
+e350291933.914778
+r1
+xCpResource
+xResources/cauly_default_banner_ipad_small.png
+xbuild/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_small.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_small.png675fe9dd07e1b441^9339eadd07e1b441^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_small.png0000000000000000^559"CpResource Resources/cauly_default_banner_ipad_small.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_ipad_small.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/Resources/cauly_default_banner_ipad_small.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"FA235EFA-14BA-45C1-B85A-3A5F80087E1A-
+
+CCpResource Resources/cauly_default_banner_iphone.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_iphone.png
+s350291933.916038
+e350291933.957376
+r1
+xCpResource
+xResources/cauly_default_banner_iphone.png
+xbuild/Debug-iphonesimulator/juso.app/cauly_default_banner_iphone.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug-iphonesimulator/juso.app/cauly_default_banner_iphone.pngd097eadd07e1b441^2122f5dd07e1b441^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/cauly_default_banner_iphone.png0000000000000000^547"CpResource Resources/cauly_default_banner_iphone.png build/Debug-iphonesimulator/juso.app/cauly_default_banner_iphone.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/Resources/cauly_default_banner_iphone.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"701E713C-B7BC-4454-BB3B-D63EA48096C8-
+
+CCpResource bg01.png build/Debug-iphonesimulator/juso.app/bg01.png
+s351047163.750803
+e351047163.753744
+r1
+xCpResource
+xbg01.png
+xbuild/Debug-iphonesimulator/juso.app/bg01.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/juso.app/bg01.png4d4bc0fb8decb441^a1f5c0fb8decb441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/bg01.png00f490beddffdf42^458"CpResource bg01.png build/Debug-iphonesimulator/juso.app/bg01.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/bg01.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"B924E6B8-352C-498D-87AD-A0A3BD5DF013-
+
+CCpResource bg01@2x.png build/Debug-iphonesimulator/juso.app/bg01@2x.png
+s351047163.751937
+e351047163.755959
+r1
+xCpResource
+xbg01@2x.png
+xbuild/Debug-iphonesimulator/juso.app/bg01@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/juso.app/bg01@2x.pnga08dc0fb8decb441^ba86c1fb8decb441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/bg01@2x.png00f490beddffdf42^473"CpResource "bg01@2x.png" "build/Debug-iphonesimulator/juso.app/bg01@2x.png"    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/juso/bg01@2x.png" /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"F2DD39AE-D4C8-465C-823B-672D41EE1A93-
+
+CCpResource btn_submit.png build/Debug-iphonesimulator/juso.app/btn_submit.png
+s350182280.700032
+e350182280.753326
+r1
+xCpResource
+xbtn_submit.png
+xbuild/Debug-iphonesimulator/juso.app/btn_submit.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/juso.app/btn_submit.png454ab3885bdfb441^2bdac0885bdfb441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/btn_submit.png0000000000000000^645"CpResource btn_submit.png build/Debug-iphonesimulator/juso.app/btn_submit.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/jhjjang/iPhone/incn/juso/btn_submit.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"38862B69-3F34-4252-86A4-569102ED2B07-
+
+CCpResource icon-b.png build/Debug-iphonesimulator/juso.app/icon-b.png
+s350288307.929896
+e350288307.933810
+r1
+xCpResource
+xicon-b.png
+xbuild/Debug-iphonesimulator/juso.app/icon-b.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/juso.app/icon-b.png9b20eeb3f9e0b441^1a1aefb3f9e0b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon-b.png000000000080d041^636"CpResource icon-b.png build/Debug-iphonesimulator/juso.app/icon-b.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/jhjjang/iPhone/incn/juso/icon-b.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"91E0C72C-4609-4206-AC8C-C6CDC8ED4ADE-
+
+CCpResource icon.png build/Debug-iphonesimulator/juso.app/icon.png
+s350288959.092778
+e350288959.097658
+r1
+xCpResource
+xicon.png
+xbuild/Debug-iphonesimulator/juso.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/juso.app/icon.png56d5173ffce0b441^af05193ffce0b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon.png0000000000000000^627"CpResource icon.png build/Debug-iphonesimulator/juso.app/icon.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/jhjjang/iPhone/incn/juso/icon.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"8A59BF1E-43FA-42F8-93FB-C62856E65898-
+
+CCpResource icon@2x.png build/Debug-iphonesimulator/juso.app/icon@2x.png
+s350291935.691646
+e350291935.811756
+r1
+xCpResource
+xicon@2x.png
+xbuild/Debug-iphonesimulator/juso.app/icon@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/juso.app/icon@2x.pnga626b1df07e1b441^92cfcfdf07e1b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon@2x.png0000000000000000^473"CpResource "icon@2x.png" "build/Debug-iphonesimulator/juso.app/icon@2x.png"    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/juso/icon@2x.png" /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"8B754BE0-124D-445A-93DD-A8C1ED21696C-
+
+CCpResource icon_57.png build/Debug-iphonesimulator/juso.app/icon_57.png
+s350291935.813141
+e350291935.820198
+r1
+xCpResource
+xicon_57.png
+xbuild/Debug-iphonesimulator/juso.app/icon_57.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/juso.app/icon_57.png823bd0df07e1b441^7809d2df07e1b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/icon_57.png0000000000000000^467"CpResource icon_57.png build/Debug-iphonesimulator/juso.app/icon_57.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/icon_57.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"DE141EDC-8A53-4C77-831A-944B8EBDE41F-
+
+CCpResource info.png build/Debug-iphonesimulator/juso.app/info.png
+s350988241.739603
+e350988241.743790
+r1
+xCpResource
+xinfo.png
+xbuild/Debug-iphonesimulator/juso.app/info.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/juso.app/info.png5d6dbdd1a7ebb441^5875bed1a7ebb441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/info.png0000000000000000^458"CpResource info.png build/Debug-iphonesimulator/juso.app/info.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/info.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"4CCA4FBD-A6F5-448D-A3D8-24CEB4A301D1-
+
+CCpResource info@2x.png build/Debug-iphonesimulator/juso.app/info@2x.png
+s350988241.745103
+e350988241.748964
+r1
+xCpResource
+xinfo@2x.png
+xbuild/Debug-iphonesimulator/juso.app/info@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/juso.app/info@2x.pngd0d5bed1a7ebb441^2ac8bfd1a7ebb441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/info@2x.png0000000000000000^473"CpResource "info@2x.png" "build/Debug-iphonesimulator/juso.app/info@2x.png"    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jhjjang/iPhone/incn/juso/info@2x.png" /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"DB98D9FF-F621-4947-A51E-524898606814-
+
+CCpResource intro.png build/Debug-iphonesimulator/juso.app/intro.png
+s350199175.706611
+e350199175.710250
+r1
+xCpResource
+xintro.png
+xbuild/Debug-iphonesimulator/juso.app/intro.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Debug-iphonesimulator/juso.app/intro.png94f8b4879ddfb441^66f9ba879ddfb441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/intro.png000000000080d041^630"CpResource intro.png build/Debug-iphonesimulator/juso.app/intro.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/jhjjang/iPhone/incn/juso/intro.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"71BE5F8B-FF26-4477-89BA-7B50F33E5F09-
+
+CCpResource intro@2x.png build/Debug-iphonesimulator/juso.app/intro@2x.png
+r0
+
+CCpResource juso/first.png build/Debug-iphonesimulator/juso.app/first.png
+s350182279.979572
+e350182279.999265
+r1
+xCpResource
+xjuso/first.png
+xbuild/Debug-iphonesimulator/juso.app/first.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Debug-iphonesimulator/juso.app/first.pngaed9fa875bdfb441^42d2ff875bdfb441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/first.png0000000000000000^640"CpResource juso/first.png build/Debug-iphonesimulator/juso.app/first.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/jhjjang/iPhone/incn/juso/juso/first.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"F6297D80-51D7-49DE-AB52-B58831C95899-
+
+CCpResource juso/first@2x.png build/Debug-iphonesimulator/juso.app/first@2x.png
+s350182279.980752
+e350182279.999139
+r1
+xCpResource
+xjuso/first@2x.png
+xbuild/Debug-iphonesimulator/juso.app/first@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/juso.app/first@2x.pngf629fb875bdfb441^47c9ff875bdfb441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/first@2x.png0000000000000000^655"CpResource "juso/first@2x.png" "build/Debug-iphonesimulator/juso.app/first@2x.png"    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/jhjjang/iPhone/incn/juso/juso/first@2x.png" /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"5423AB61-73C4-4BD3-B4D3-57307DDCF6F6-
+
+CCpResource juso/second.png build/Debug-iphonesimulator/juso.app/second.png
+s350182280.000446
+e350182280.003796
+r1
+xCpResource
+xjuso/second.png
+xbuild/Debug-iphonesimulator/juso.app/second.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/juso.app/second.png302f00885bdfb441^f30101885bdfb441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/second.png0000000000000000^643"CpResource juso/second.png build/Debug-iphonesimulator/juso.app/second.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/jhjjang/iPhone/incn/juso/juso/second.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"40C7425C-7B9C-4346-BB61-BE5788D5DFB0-
+
+CCpResource juso/second@2x.png build/Debug-iphonesimulator/juso.app/second@2x.png
+s350182280.000671
+e350182280.004164
+r1
+xCpResource
+xjuso/second@2x.png
+xbuild/Debug-iphonesimulator/juso.app/second@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/juso.app/second@2x.png823b00885bdfb441^451201885bdfb441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/second@2x.png0000000000000000^658"CpResource "juso/second@2x.png" "build/Debug-iphonesimulator/juso.app/second@2x.png"    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/jhjjang/iPhone/incn/juso/juso/second@2x.png" /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"69B03231-29A0-46D5-ACE4-BD3833C499DD-
+
+CCpResource mapbg.png build/Debug-iphonesimulator/juso.app/mapbg.png
+s350291935.415365
+e350291935.493708
+r1
+xCpResource
+xmapbg.png
+xbuild/Debug-iphonesimulator/juso.app/mapbg.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/Debug-iphonesimulator/juso.app/mapbg.png27696adf07e1b441^826f7edf07e1b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/mapbg.png0000000000000000^461"CpResource mapbg.png build/Debug-iphonesimulator/juso.app/mapbg.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/mapbg.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"B321DBA1-436C-465F-87ED-EDC479A0374A-
+
+CCpResource mapbg@2x.png build/Debug-iphonesimulator/juso.app/mapbg@2x.png
+r0
+
+CCpResource navi01.png build/Debug-iphonesimulator/juso.app/navi01.png
+s350291935.494995
+e350291935.498525
+r1
+xCpResource
+xnavi01.png
+xbuild/Debug-iphonesimulator/juso.app/navi01.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/juso.app/navi01.png6dc97edf07e1b441^9ca27fdf07e1b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi01.png0000000000000000^464"CpResource navi01.png build/Debug-iphonesimulator/juso.app/navi01.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/navi01.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"D0E24156-1D75-4FE0-BF2F-8043BE38A028-
+
+CCpResource navi01@2x.png build/Debug-iphonesimulator/juso.app/navi01@2x.png
+r0
+
+CCpResource navi02.png build/Debug-iphonesimulator/juso.app/navi02.png
+s350291935.499905
+e350291935.515633
+r1
+xCpResource
+xnavi02.png
+xbuild/Debug-iphonesimulator/juso.app/navi02.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/juso.app/navi02.pngd00e80df07e1b441^600184df07e1b441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi02.png0000000000000000^464"CpResource navi02.png build/Debug-iphonesimulator/juso.app/navi02.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/navi02.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"6BEEC60E-6709-4A66-9BEB-9662D8823283-
+
+CCpResource navi02@2x.png build/Debug-iphonesimulator/juso.app/navi02@2x.png
+r0
+
+CCpResource navi03.png build/Debug-iphonesimulator/juso.app/navi03.png
+s351049248.739531
+e351049248.742531
+r1
+xCpResource
+xnavi03.png
+xbuild/Debug-iphonesimulator/juso.app/navi03.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/juso.app/navi03.png1f68bd2096ecb441^8b18be2096ecb441^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/navi03.png0000000000000000^464"CpResource navi03.png build/Debug-iphonesimulator/juso.app/navi03.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/navi03.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"C3393D61-9780-4943-B511-B84A19EB9789-
+
+CCpResource navi03@2x.png build/Debug-iphonesimulator/juso.app/navi03@2x.png
+r0
+
+CCpResource radio-off.png build/Debug-iphonesimulator/juso.app/radio-off.png
+s350291935.143986
+e350291935.189849
+r1
+xCpResource
+xradio-off.png
+xbuild/Debug-iphonesimulator/juso.app/radio-off.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/juso.app/radio-off.png56ef24df07e1b441^6aa530df07e1b441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/radio-off.png0000000000000000^473"CpResource radio-off.png build/Debug-iphonesimulator/juso.app/radio-off.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/radio-off.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"C519B25A-997C-4996-AC77-8FF9C9193CD5-
+
+CCpResource radio-on.png build/Debug-iphonesimulator/juso.app/radio-on.png
+s350291935.191046
+e350291935.193664
+r1
+xCpResource
+xradio-on.png
+xbuild/Debug-iphonesimulator/juso.app/radio-on.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/juso.app/radio-on.png2ffc30df07e1b441^249d31df07e1b441^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/radio-on.png0000000000000000^470"CpResource radio-on.png build/Debug-iphonesimulator/juso.app/radio-on.png    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jhjjang/iPhone/incn/juso/radio-on.png /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"4D916E20-C512-464E-B1AD-6506FD6041F8-
+
+CGenerateDSYMFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app.dSYM /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso
+s351049248.628824
+e351049248.706304
+r1
+xGenerateDSYMFile
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app.dSYM
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Generating /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app.dSYM0a10a12096ecb441^68d0b42096ecb441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app.dSYM/0000000000000000^454"GenerateDSYMFile build/Debug-iphonesimulator/juso.app.dSYM build/Debug-iphonesimulator/juso.app/juso    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso -o /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app.dSYM36"AFA69593-166B-4354-A5AF-DEE014B6ABA6-
+
+CLd /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso normal i386
+s351049248.531052
+e351049248.620853
+r1
+xLd
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso
+xnormal
+xi386
+old: warning: ignoring file /Users/jhjjang/iPhone/incn/juso/libCaulyDevice.a, missing required architecture i386 in file
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Link /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso5a2d882096ecb441^b7099f2096ecb441^-120"ld: warning: ignoring file /Users/jhjjang/iPhone/incn/juso/libCaulyDevice.a, missing required architecture i386 in file1(21%IDEActivityLogMessage2@106"Ignoring file /Users/jhjjang/iPhone/incn/juso/libCaulyDevice.a, missing required architecture i386 in file-351049248#0#120#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1192"Ld build/Debug-iphonesimulator/juso.app/juso normal i386    cd /Users/jhjjang/iPhone/incn/juso    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -L/Users/jhjjang/iPhone/incn/juso -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -filelist /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/Objects-normal/i386/juso.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -framework MessageUI -framework CoreLocation -framework MapKit -framework SystemConfiguration -framework QuartzCore -framework CFNetwork -lz -framework UIKit -framework Foundation -framework CoreGraphics -lCaulyDevice -lCaulySimulator -o /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/juso36"C2529262-1A8E-4B55-BD5A-BF1DB7BDEEDB-
+
+CProcessInfoPlistFile /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Info.plist juso/juso-Info.plist
+s350788804.984791
+e350788804.989213
+r1
+xProcessInfoPlistFile
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Info.plist
+xjuso/juso-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process juso/juso-Info.plist9832fcc49ce8b441^7b4bfdc49ce8b441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/juso-Info.plist0000000000000000^544"ProcessInfoPlistFile build/Debug-iphonesimulator/juso.app/Info.plist juso/juso-Info.plist    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility juso/juso-Info.plist -genpkginfo /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app/Info.plist36"6BD1219D-F8F8-4886-AF13-BD38B2E07DCA-
+
+CProcessPCH /Users/jhjjang/Library/Developer/Xcode/DerivedData/juso-gwgipekeadjnzlfntkoidoizlwok/Index/PrecompiledHeaders/juso-Prefix-csdysdgzmrdpyuhfperrblbgkboj_ast/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jhjjang/Library/Developer/Xcode/DerivedData/juso-gwgipekeadjnzlfntkoidoizlwok/Index/PrecompiledHeaders/juso-Prefix-fkwdepozbpgurdawndcrhrlqeish_ast/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jhjjang/Library/Developer/Xcode/DerivedData/juso-gwgipekeadjnzlfntkoidoizlwok/Index/PrecompiledHeaders/juso-Prefix-gfphjqpwnfchkddncjiqpeiiepay_ast/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jhjjang/Library/Developer/Xcode/DerivedData/juso-gwgipekeadjnzlfntkoidoizlwok/Index/PrecompiledHeaders/juso-Prefix-hblcwdqecmbubzdcimqcraugokas_ast/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350291926.109686
+e350291928.580645
+r1
+xProcessPCH
+x/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch.pth
+xjuso/juso-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile juso/juso-Prefix.pch4e431cd607e1b441^6ea494d807e1b441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch0000000000000000^2496"ProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -c /Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch -o /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-addwaprljceqlxernysjwryobejs/juso-Prefix.pch.d36"9B1E7E4A-9794-4B1E-B3B7-376CD53C52E3-
+
+CProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-dcswjjynxijsmaeonzddmhcgpiic/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349675422.341456
+e349675424.130632
+r1
+xProcessPCH
+x/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-dcswjjynxijsmaeonzddmhcgpiic/juso-Prefix.pch.pth
+xjuso/juso-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile juso/juso-Prefix.pch048f579e9fd7b441^b69e21a09fd7b441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch0000000000000000^2922"ProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-dcswjjynxijsmaeonzddmhcgpiic/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -c /Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch -o /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-dcswjjynxijsmaeonzddmhcgpiic/juso-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-dcswjjynxijsmaeonzddmhcgpiic/juso-Prefix.pch.d36"9E0BF274-891C-4E0C-89F0-A4CCEAE57688-
+
+CProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-fotutrgsyfrtjsgpsyvxqauyfsuz/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s350182265.483527
+e350182274.158077
+r1
+xProcessPCH
+x/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-fotutrgsyfrtjsgpsyvxqauyfsuz/juso-Prefix.pch.pth
+xjuso/juso-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile juso/juso-Prefix.pch98f87b795bdfb441^147728825bdfb441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch0000000000000000^2918"ProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-fotutrgsyfrtjsgpsyvxqauyfsuz/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -c /Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch -o /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-fotutrgsyfrtjsgpsyvxqauyfsuz/juso-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-fotutrgsyfrtjsgpsyvxqauyfsuz/juso-Prefix.pch.d36"31C0167B-CB95-4E71-95A4-2693799A4421-
+
+CProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-gyoqqmhstflmyhdarpjugeatagbq/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349923465.765536
+e349923466.252284
+r1
+xProcessPCH
+x/var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-gyoqqmhstflmyhdarpjugeatagbq/juso-Prefix.pch.pth
+xjuso/juso-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile juso/juso-Prefix.pch5c1dc48968dbb441^d6a7408a68dbb441^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch0000000000000000^2922"ProcessPCH /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-gyoqqmhstflmyhdarpjugeatagbq/juso-Prefix.pch.pth juso/juso-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jhjjang/iPhone/incn/juso    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-generated-files.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-own-target-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-all-target-headers.hmap -iquote /Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/juso-project-headers.hmap -I/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/include -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources/i386 -I/Users/jhjjang/iPhone/incn/juso/build/juso.build/Debug-iphonesimulator/juso.build/DerivedSources -F/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator -c /Users/jhjjang/iPhone/incn/juso/juso/juso-Prefix.pch -o /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-gyoqqmhstflmyhdarpjugeatagbq/juso-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9j/cp47mskd1c3gw2hnckn28x4w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/juso-Prefix-gyoqqmhstflmyhdarpjugeatagbq/juso-Prefix.pch.d36"6ADCD4D7-28C8-44F3-9B55-8E7065100EC7-
+
+CTouch /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app
+s351049248.750822
+e351049248.756984
+r1
+xTouch
+x/Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Touch /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app3d47c02096ecb441^25cbc12096ecb441^---0#0#0#--304"Touch build/Debug-iphonesimulator/juso.app    cd /Users/jhjjang/iPhone/incn/juso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jhjjang/iPhone/incn/juso/build/Debug-iphonesimulator/juso.app36"76A03229-A5F6-4034-BBD2-356DA1D6E6BB-
+
